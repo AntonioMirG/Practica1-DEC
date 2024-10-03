@@ -1,5 +1,5 @@
 let palabras = "hola buenas tardes que tal estais";
-
+ 
 function mayusculas(palabras) {
     let cadenanueva = ""; 
 
