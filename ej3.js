@@ -1,7 +1,7 @@
 let palabras = "hola buenas tardes que tal estais";
 
 function mayusculas(palabras) {
-    let cadenanueva = "";
+    let cadenanueva = ""; 
 
     for (let index = 0; index < palabras.length; index++) {
         if (index == 0) {
