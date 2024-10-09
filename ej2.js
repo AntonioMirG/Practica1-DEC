@@ -1,3 +1,5 @@
+//2- La sucesión de Padovan es la secuencia de enteros P(n) definida por los siguientes valores iniciales
+
 function secuencia(n) {
     let p = [1, 1, 1];
  

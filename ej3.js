@@ -1,3 +1,5 @@
+//3- Crea una función que, dada una cadena de texto, devuelve una nueva cadena cambiando la primera letra de cada palabra en mayúsculas.
+
 let palabras = "hola buenas tardes que tal estais";
  
 function mayusculas(palabras) {
